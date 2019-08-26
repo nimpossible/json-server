@@ -1,0 +1,12 @@
+{
+  "response": {
+    "refreshToken": "sometoken",
+    "token": "sometoken",
+    "user": {
+      "active": 12,
+      "id": 5,
+      "name": "abc",
+      "password": "def"
+    }
+  }
+}
